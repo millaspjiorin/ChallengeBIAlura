@@ -3,7 +3,7 @@
 
 <img src="../Semana 1/Imagens/dashLogisticaV2.png">
 <br><br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiM2JlZDYwMGMtZjVlOS00MDVmLWFlZWQtNGIzN2UwY2I4ODBjIiwidCI6ImMxNWE1ZDM2LWEzZmYtNDlmMi1hNWQ3LWFhMGY5ODRkZTE2MSJ9"> Link para dashboard publicado </a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiM2JlZDYwMGMtZjVlOS00MDVmLWFlZWQtNGIzN2UwY2I4ODBjIiwidCI6ImMxNWE1ZDM2LWEzZmYtNDlmMi1hNWQ3LWFhMGY5ODRkZTE2MSJ9">Link para dashboard publicado </a>
 
 <h3>Métricas apresentadas</h3>
 <ul style="list-style-type: circle;">

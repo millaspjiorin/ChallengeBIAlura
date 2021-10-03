@@ -4,7 +4,7 @@ A nossa missão é apoiar a gerência em suas tomadas de decisão, e elucidar as
 
 <img src="../Semana 2/Imagens/dashMarketing.png">
 <br><br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNTFiZWVkNmQtYTAwMC00NzAwLTg4MTgtOTczNjUzMTJhZjdjIiwidCI6ImMxNWE1ZDM2LWEzZmYtNDlmMi1hNWQ3LWFhMGY5ODRkZTE2MSJ9"> Link para dashboard publicado </a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNTFiZWVkNmQtYTAwMC00NzAwLTg4MTgtOTczNjUzMTJhZjdjIiwidCI6ImMxNWE1ZDM2LWEzZmYtNDlmMi1hNWQ3LWFhMGY5ODRkZTE2MSJ9">Link para dashboard publicado </a>
 
 <h3>Métricas apresentadas</h3>
 <ul style="list-style-type: circle;">
